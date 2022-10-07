@@ -1,0 +1,21 @@
+body {
+  background: rgb(232,232,233);
+background: linear-gradient(3deg, rgba(232,232,233,1) 0%, rgba(255,0,86,1) 100%);
+}
+
+#root{
+  min-height: 100vh;
+}
+
+.form{
+  background: rgb(232,232,233);
+  background: linear-gradient(0deg, rgba(232,232,233,1) 0%, rgba(128,0,255,1) 100%);
+  border-radius: 30px;
+  width: 50%;
+
+}
+
+
+.boton{
+  margin-left: auto;
+}
